@@ -4,3 +4,7 @@ Joaquin tiene 19 años.
 Es alto, lindo y programador.
 
 Esta aprendiendo git.
+
+Es mas alto de lo que parece
+
+Hoy aprende programacion

@@ -1,7 +1,6 @@
 Esta es la historia de Joaquin.
 
-Joaquin tiene 18 años.
-
+Joaquin tiene 19 años.
 Es alto, lindo y programador.
 
 Esta aprendiendo git.

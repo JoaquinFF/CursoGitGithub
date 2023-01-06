@@ -1,0 +1,7 @@
+Esta es la historia de Joaquin.
+
+Joaquin tiene 18 años.
+
+Es alto, lindo y programador.
+
+Esta aprendiendo git.

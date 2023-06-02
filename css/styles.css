@@ -43,3 +43,9 @@ body {
 #logo {
     width: 50px;
 }
+
+#footer {
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+}

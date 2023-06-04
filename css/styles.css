@@ -4,6 +4,8 @@ body {
     margin: 0%;
     padding: 0%;
     background-color: gray;
+    display: flex;
+    justify-content: center;
 }
 
 #titulo {
@@ -13,9 +15,10 @@ body {
 
 #container {
     display: flex;
+    position: absolute;
     flex-direction: column;
     align-items: center;
-    width: 700px;
+    width: 500px;
     padding: 1em;
     text-align: left;
     border: 1px solid black;

@@ -8,6 +8,11 @@ body {
     justify-content: center;
 }
 
+#foto {
+    height: 60%;
+    width: 100%;
+}
+
 #titulo {
     color: white;
     background-color: khaki;
